@@ -1,0 +1,1 @@
+This repo contains a custom kubernetes controller which creates a service and ingress as soon as a Deployment is created
